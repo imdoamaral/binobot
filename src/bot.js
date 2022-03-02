@@ -16,7 +16,7 @@ client.on('messageCreate', (message) => {
         message.content === 'nossa missao' ||
         message.content === 'nossamissao') {
 
-        message.channel.send('Promover o **empreendedorismo júnior** e **democratizar a transformação digital** através de soluções tecnológicas que contribuem para o desenvolvimento da região que atuamos.');
+        message.channel.send('Promover o **empreendedorismo júnior** e **democratizar a transformação digital** \natravés de soluções tecnológicas que contribuem para o desenvolvimento da região que atuamos.');
     }
 
     // Nossa Visão <3
